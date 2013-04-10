@@ -29,7 +29,7 @@ The Visible Male head
 ------------------------
 I was trying to figure out if GitHub's STL renderer had any support for color STL
 models.  STL doesn't really support color, but if you read the [Wikipedia description
-of the STL format](http://en.wikipedia.org/wiki/STL_(file_format) ), 
+of the STL format](http://en.wikipedia.org/wiki/STL_\(file_format\)), 
 you can see that several different companies have kind of hacked it
 into the binary verion of the format.  I tried putting color in a STL mesh to see
 if it would show up, but it didn't work.  Too bad.
